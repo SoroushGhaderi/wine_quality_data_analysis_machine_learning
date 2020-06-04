@@ -21,9 +21,9 @@ Quality Rating
 
 ## Writers
 
-* [Soursh Ghaderi](https://github.com/SoroushGhaderi) ( :pencil2: )
-
 * [Bahram Jannesar](https://github.com/BahramJannesar) ( :pencil2: )
+
+* [Soursh Ghaderi](https://github.com/SoroushGhaderi) ( :pencil2: )
 
 ## License
 See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License
