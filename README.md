@@ -26,4 +26,4 @@ Quality Rating
 * [Soursh Ghaderi](https://github.com/SoroushGhaderi) ( :pencil2: )
 
 ## License
-See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License
+See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License.
