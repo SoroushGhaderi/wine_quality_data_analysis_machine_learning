@@ -27,3 +27,4 @@ Quality Rating
 
 ## License
 See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License
+.
